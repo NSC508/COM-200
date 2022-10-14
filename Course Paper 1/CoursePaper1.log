@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.10)  14 OCT 2022 20:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.10)  14 OCT 2022 20:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -627,8 +627,8 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./CoursePaper1.bbl
-Overfull \hbox (338.80576pt too wide) in paragraph at lines 128--1
-\OT1/cmr/m/n/10 through Bruce Lee para-texts in Gi-ant Robot and An-gry Asian Man" by LeiLani Nishime []Nishime[] ([]2017[]) (https://www.tandfonline.com/doi/full/10.1080/15295036.2017.1285420?journalCode=rcsm20).
+Overfull \hbox (341.58354pt too wide) in paragraph at lines 128--1
+\OT1/cmr/m/n/10 through Bruce Lee para-texts in Gi-ant Robot and An-gry Asian Man" by LeiLani Nishime ([]Nishime[], []2017[]) (https://www.tandfonline.com/doi/full/10.1080/15295036.2017.1285420?journalCode=rcsm20).
  []
 
 [2]) [3] (./CoursePaper1.aux)
@@ -644,7 +644,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,7n,94p,487b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CoursePaper1.pdf (3 pages, 100068 bytes).
+Output written on CoursePaper1.pdf (3 pages, 100075 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
